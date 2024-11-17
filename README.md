@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariswarreddy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently working on some projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : hariswarreddy241005@gmail.com
 - 😄 Pronouns: ...
