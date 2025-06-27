@@ -1,29 +1,39 @@
-# Hi there, I'm Bontha Hariswar Reddy!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student+at+IIIT+Agartala;Full+Stack+Developer;Blockchain+%26+Web3+Developer;Research+Intern;MERN+Stack+Enthusiast!" alt="Typing SVG" />
+ercel.app</a></td>
+      <td><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hari2410">hari2410</a></td>
+    </tr>
+  </table>
 </div>
 
-## 🚀 About Me
+Professional Summary
+I am a dedicated Computer Science Engineering student at the Indian Institute of Information Technology, Agartala, with a current CGPA of 8.24. Currently serving as a Research Intern at IIIT Allahabad, where I specialize in Blockchain Technology and Smart Contract Development. My expertise spans across Full Stack Web Development, with particular strength in the MERN Stack and emerging Web3 technologies.
+My academic journey is complemented by practical experience in developing scalable web applications, implementing secure authentication systems, and creating innovative blockchain solutions. I have demonstrated exceptional problem-solving abilities through competitive programming and maintain a strong commitment to continuous learning and technological innovation.
 
-I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** with a strong focus on **Full Stack Development** and **Blockchain Technology**. Currently working as a **Research Intern** at **IIIT Allahabad**, developing innovative Web3 solutions and smart contracts.
+Current Research Position
+Research Intern - Blockchain and Solidity
+Indian Institute of Information Technology Allahabad | May 2025 – Present
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+Project: Smart Contract-based Student Fund Management System
+Key Responsibilities:
 
-- 🎓 **BTech CSE Student** at IIIT Agartala
-- 🔬 **Research Intern** at IIIT Allahabad specializing in Blockchain & Solidity
-- 💻 Building scalable web applications with **MERN Stack**
-- 📧 Reach me at: **hariswarreddy241005@gmail.com**
-- 🌐 Portfolio: **[harib.vercel.app](https://harib.vercel.app)**
+Developing comprehensive smart contract architecture for purpose-driven donation management
+Implementing automatic NFT generation systems with donor-defined intent mapping
+Creating transparent vendor listing and campaign tracking mechanisms
+Ensuring secure fund transfer protocols with comprehensive access control systems
 
-## 🔬 Current Research & Work
+Technical Implementation:
 
-### 🔗 Blockchain Research Intern | IIIT Allahabad
-**May 2025 – Present**
+Smart contract development using Solidity, Hardhat, and OpenZeppelin
+Frontend integration with React and Ethers.js for seamless Web3 interactions
+Real-time dashboard development for multi-stakeholder engagement
+Gas optimization and security testing protocols
 
-- 🏦 Developing a **Smart Contract-based Student Fund Management System**
-- 🎯 Implementing **purpose-driven donations** with **automatic NFT generation**
-- 🔒 Building secure, gas-efficient contracts using **Solidity**, **Hardhat**, and **OpenZeppelin**
-- ⚛️ Creating **Web3 frontend** with **React** and **Ethers.js** integration
-- 📊 Designing interactive dashboards for **real-time campaign tracking**
+</div>
+
+Education
+Bachelor of Technology in Computer Science and Engineering
+Indian Institute of Information Technology, Agartala | August 2023 – Present
+Location: Agartala, Tripura
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -64,84 +74,17 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** w
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 🛒 [Echo Ecommerce Website](https://github.com/hariswarreddy/EchoEcommerceWebsite)
-**Full-Stack MERN Ecommerce Platform**
-- **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT, bcrypt
-- **Features:** Complete shopping experience with cart management, user authentication, admin panel
-- **Achievements:** 
-  - 🚀 **40% performance improvement** with lazy loading & MongoDB indexing
-  - 🔒 **95% reduction** in security vulnerabilities with JWT authentication
-  - 📊 **100 SEO score** with optimized queries and faster load times
-- **Status:** ✅ Live & Deployed
-
-### 💬 [Chatter's Hub](https://github.com/hariswarreddy/Chatters-Hub-WebApp)
-**Real-Time Chat Application**
-- **Tech Stack:** React.js, Chakra UI, Firebase, Firestore
-- **Features:** Real-time messaging, user authentication, responsive design
-- **Achievements:**
-  - 📱 **100% mobile compatibility** with 96+ Lighthouse performance score
-  - 👥 Supports **10,000+ concurrent users** with zero downtime
-  - ⚡ **40% faster** message delivery with optimized Firebase integration
-- **Status:** ✅ Production Ready
-
-### 🪙 [XBit Crypto Platform](https://github.com/hariswarreddy/XBit-Crypto-WebApp)
-**Cryptocurrency Trading Dashboard**
-- **Tech Stack:** React, JavaScript, Chart.js, CoinGecko API
-- **Features:** Real-time crypto data, interactive charts, market analysis
-- **Achievements:**
-  - 📈 **98% accessibility score** with 50% SEO improvement
-  - 📊 Interactive **24-hour & 30-day** market trend analysis
-  - 🎯 **30% faster load times** with asset optimization
-- **Status:** ✅ Deployed on Vercel
-
-### 🌤️ [Real-Time Weather App](https://github.com/hariswarreddy/Real-Time-Weather-App)
-**Dynamic Weather Information System**
-- **Tech Stack:** JavaScript, HTML5, CSS3, Weather API
-- **Features:** Location-based weather, dynamic UI, real-time updates
-- **Achievements:** Clean, responsive design with accurate weather data
-- **Status:** ✅ Fully Functional
-
-### 🎮 [BulletstormX](https://github.com/hariswarreddy/BulletstromX)
-**Interactive Web Game**
-- **Tech Stack:** JavaScript, HTML5 Canvas, CSS3
-- **Features:** Engaging gameplay mechanics, responsive controls
-- **Status:** ✅ Playable Demo
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariswarreddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariswarreddy&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariswarreddy&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariswarreddy&layout=compact&langs_count=8&theme=vue&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariswarreddy&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hariswarreddy&theme=vue&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
-## 🏆 Achievements & Recognition
-
-### 🎯 Competitive Programming
-- 💻 **250+ LeetCode Problems** solved
-- 🧠 Strong expertise in **Dynamic Programming**, **Graphs**, **Recursion**, and **Backtracking**
-- 📈 Consistent problem-solving practice with focus on algorithmic efficiency
-
-### 🎓 Academic Excellence
-- 🏅 **Top 5% rank** in **JEE Mains** among **800,000+ students**
-- 📊 **CGPA: 8.24** at IIIT Agartala
-- 🚀 Demonstrates exceptional **fast learning** and **adaptability**
-
-### 🌐 Web Development Impact
-- ⚡ **40% performance improvements** across multiple projects
-- 🔒 **95% security enhancement** through proper authentication
-- 📱 **100% mobile compatibility** with responsive design
-- 👥 **10,000+ concurrent user** support capability
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariswarreddy&theme=radical&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Contribution Activity
 <div align="center">
@@ -156,18 +99,6 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** w
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harib.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariswarreddy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari2410)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916363211442)
 
 </div>
 
----
-
-<div align="center">
-  <h3>💼 Open for Opportunities</h3>
-  <p><i>Interested in <strong>Full Stack Development</strong>, <strong>Blockchain Development</strong>, and <strong>Research Internships</strong></i></p>
-  <br>
-  <i>⭐️ From <a href="https://github.com/hariswarreddy">Bontha Hariswar Reddy</a></i>
-  <br><br>
-</div>
-
----
