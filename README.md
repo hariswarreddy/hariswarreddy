@@ -1,27 +1,31 @@
-# Hi there, I'm Bontha Hariswar Reddy!
+# Hi there, I'm Bontha Hariswar Reddy! 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student+at+IIIT+Agartala;Full+Stack+Developer;Blockchain+%26+Web3+Developer;Research+Intern;MERN+Stack+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=300&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student+at+IIIT+Agartala;Full+Stack+Developer;Blockchain+%26+Web3+Developer;Research+Intern;MERN+Stack+Enthusiast!" alt="Typing SVG" />
 </div>
-🚀 About Me
-I'm a passionate Computer Science Engineering student at IIIT Agartala with a strong focus on Full Stack Development and Blockchain Technology. Currently working as a Research Intern at IIIT Allahabad, developing innovative Web3 solutions and smart contracts.
 
-🎓 BTech CSE Student at IIIT Agartala
-🔬 Research Intern at IIIT Allahabad specializing in Blockchain & Solidity
-📧 Reach me at: hariswarreddy241005@gmail.com
-🌐 Portfolio: harib.vercel.app
+## 🚀 About Me
 
-🔬 Current Research & Work
+I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** with a strong focus on **Full Stack Development** and **Blockchain Technology**. Currently working as a **Research Intern** at IIIT Allahabad, developing innovative Web3 solutions and smart contracts.
 
-🔗 Blockchain Research Intern | IIIT Allahabad
-May 2025 – Present
+- 🎓 **BTech CSE Student** at IIIT Agartala (CGPA: 8.24)
+- 🔬 **Research Intern** at IIIT Allahabad specializing in Blockchain & Solidity
+- 💻 Building scalable web applications with **MERN Stack**
+- 🌐 Passionate about **Web3**, **DeFi**, and **Smart Contracts**
+- 🏆 **Top 5%** in JEE Mains among 800,000+ students
+- 📧 Reach me at: **hariswarreddy241005@gmail.com**
+- 🌐 Portfolio: **[harib.vercel.app](https://harib.vercel.app)**
 
-🏦 Developing a Smart Contract-based Student Fund Management System
-🎯 Implementing purpose-driven donations with automatic NFT generation
-🔒 Building secure, gas-efficient contracts using Solidity, Hardhat, and OpenZeppelin
-⚛️ Creating Web3 frontend with React and Ethers.js integration
-📊 Designing interactive dashboards for real-time campaign tracking
+## 🔬 Current Research & Work
 
+### 🔗 Blockchain Research Intern | IIIT Allahabad
+**May 2025 – Present**
 
+- 🏦 Developing a **Smart Contract-based Student Fund Management System**
+- 🎯 Implementing **purpose-driven donations** with **automatic NFT generation**
+- 🔒 Building secure, gas-efficient contracts using **Solidity**, **Hardhat**, and **OpenZeppelin**
+- ⚛️ Creating **Web3 frontend** with **React** and **Ethers.js** integration
+- 📊 Designing interactive dashboards for **real-time campaign tracking**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -66,11 +70,12 @@ May 2025 – Present
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariswarreddy&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariswarreddy&layout=compact&langs_count=8&theme=vue&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariswarreddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariswarreddy&layout=compact&langs_count=8&theme=radical"/>
 </div>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hariswarreddy&theme=vue&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariswarreddy&theme=radical" alt="GitHub Streak" />
 </div>
 
 
