@@ -1,7 +1,7 @@
-# Hi there, I'm Haris War Reddy! 👋
+# Hi there, I'm Hariswar Reddy! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
