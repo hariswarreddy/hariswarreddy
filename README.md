@@ -1,4 +1,4 @@
-# Hi there, I'm Bontha Hariswar Reddy! 👋
+# Hi there, I'm Bontha Hariswar Reddy!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=300&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student+at+IIIT+Agartala;Full+Stack+Developer;Blockchain+%26+Web3+Developer;Research+Intern;MERN+Stack+Enthusiast!" alt="Typing SVG" />
@@ -6,13 +6,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** with a strong focus on **Full Stack Development** and **Blockchain Technology**. Currently working as a **Research Intern** at IIIT Allahabad, developing innovative Web3 solutions and smart contracts.
+I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** with a strong focus on **Full Stack Development** and **Blockchain Technology**. Currently working as a **Research Intern** at **IIIT Allahabad**, developing innovative Web3 solutions and smart contracts.
 
-- 🎓 **BTech CSE Student** at IIIT Agartala (CGPA: 8.24)
+- 🎓 **BTech CSE Student** at IIIT Agartala
 - 🔬 **Research Intern** at IIIT Allahabad specializing in Blockchain & Solidity
-- 💻 Building scalable web applications with **MERN Stack**
-- 🌐 Passionate about **Web3**, **DeFi**, and **Smart Contracts**
-- 🏆 **Top 5%** in JEE Mains among 800,000+ students
 - 📧 Reach me at: **hariswarreddy241005@gmail.com**
 - 🌐 Portfolio: **[harib.vercel.app](https://harib.vercel.app)**
 
@@ -74,9 +71,6 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** w
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariswarreddy&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariswarreddy&theme=radical" alt="GitHub Streak" />
-</div>
 
 
 ## 📈 Contribution Activity
