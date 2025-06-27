@@ -1,49 +1,27 @@
-Hi there, I'm Bontha Hariswar Reddy!
+# Hi there, I'm Bontha Hariswar Reddy!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Blockchain+Research+Intern;MERN+Stack+Specialist;Web3+Developer" alt="Professional Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=F75C7E&center=true&vCenter=true&width=700&lines=CSE+Student+at+IIIT+Agartala;Full+Stack+Developer;Blockchain+%26+Web3+Developer;Research+Intern;MERN+Stack+Enthusiast!" alt="Typing SVG" />
 </div>
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Email:</strong> hariswarreddy241005@gmail.com</td>
-      <td><strong>Phone:</strong> +91 6363211442</td>
-    </tr>
-    <tr>
-      <td><strong>Portfolio:</strong> <a href="https://harib.vercel.app">harib.vercel.app</a></td>
-      <td><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hari2410">hari2410</a></td>
-    </tr>
-  </table>
-</div>
+🚀 About Me
+I'm a passionate Computer Science Engineering student at IIIT Agartala with a strong focus on Full Stack Development and Blockchain Technology. Currently working as a Research Intern at IIIT Allahabad, developing innovative Web3 solutions and smart contracts.
 
-Professional Summary
-I am a dedicated Computer Science Engineering student at the Indian Institute of Information Technology, Agartala, with a current CGPA of 8.24. Currently serving as a Research Intern at IIIT Allahabad, where I specialize in Blockchain Technology and Smart Contract Development. My expertise spans across Full Stack Web Development, with particular strength in the MERN Stack and emerging Web3 technologies.
-My academic journey is complemented by practical experience in developing scalable web applications, implementing secure authentication systems, and creating innovative blockchain solutions. I have demonstrated exceptional problem-solving abilities through competitive programming and maintain a strong commitment to continuous learning and technological innovation.
+🎓 BTech CSE Student at IIIT Agartala
+🔬 Research Intern at IIIT Allahabad specializing in Blockchain & Solidity
+📧 Reach me at: hariswarreddy241005@gmail.com
+🌐 Portfolio: harib.vercel.app
 
-Current Research Position
-Research Intern - Blockchain and Solidity
-Indian Institute of Information Technology Allahabad | May 2025 – Present
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
-Project: Smart Contract-based Student Fund Management System
-Key Responsibilities:
+🔬 Current Research & Work
 
-Developing comprehensive smart contract architecture for purpose-driven donation management
-Implementing automatic NFT generation systems with donor-defined intent mapping
-Creating transparent vendor listing and campaign tracking mechanisms
-Ensuring secure fund transfer protocols with comprehensive access control systems
+🔗 Blockchain Research Intern | IIIT Allahabad
+May 2025 – Present
 
-Technical Implementation:
+🏦 Developing a Smart Contract-based Student Fund Management System
+🎯 Implementing purpose-driven donations with automatic NFT generation
+🔒 Building secure, gas-efficient contracts using Solidity, Hardhat, and OpenZeppelin
+⚛️ Creating Web3 frontend with React and Ethers.js integration
+📊 Designing interactive dashboards for real-time campaign tracking
 
-Smart contract development using Solidity, Hardhat, and OpenZeppelin
-Frontend integration with React and Ethers.js for seamless Web3 interactions
-Real-time dashboard development for multi-stakeholder engagement
-Gas optimization and security testing protocols
 
-</div>
-
-Education
-Bachelor of Technology in Computer Science and Engineering
-Indian Institute of Information Technology, Agartala | August 2023 – Present
-CGPA: 8.24 | Location: Agartala, Tripura
 
 ## 🛠️ Tech Stack & Tools
 
