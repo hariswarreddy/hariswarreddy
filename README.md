@@ -1,4 +1,15 @@
-ercel.app</a></td>
+Hi there, I'm Bontha Hariswar Reddy!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Blockchain+Research+Intern;MERN+Stack+Specialist;Web3+Developer" alt="Professional Title" />
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Email:</strong> hariswarreddy241005@gmail.com</td>
+      <td><strong>Phone:</strong> +91 6363211442</td>
+    </tr>
+    <tr>
+      <td><strong>Portfolio:</strong> <a href="https://harib.vercel.app">harib.vercel.app</a></td>
       <td><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hari2410">hari2410</a></td>
     </tr>
   </table>
@@ -32,8 +43,7 @@ Gas optimization and security testing protocols
 Education
 Bachelor of Technology in Computer Science and Engineering
 Indian Institute of Information Technology, Agartala | August 2023 – Present
-Location: Agartala, Tripura
-
+CGPA: 8.24 | Location: Agartala, Tripura
 
 ## 🛠️ Tech Stack & Tools
 
