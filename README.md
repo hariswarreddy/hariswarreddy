@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** (CGPA: **8.24**) specializing in **Full Stack Development** and **Blockchain Technology**. 
+I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** specializing in **Full Stack Development** and **Blockchain Technology**. 
 
 - **BTech CSE Student** at IIIT Agartala
 - Completed internships at **Zennaura** and **IIIT Allahabad**
