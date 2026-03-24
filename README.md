@@ -22,10 +22,11 @@
 I'm a passionate **Computer Science Engineering** student at **IIIT Agartala** specializing in **Full Stack Development** and **Blockchain Technology**. 
 
 - **BTech CSE Student** at IIIT Agartala
-- Completed internships at **Zennaura** and **IIIT Allahabad**
+- Intern at Meezo
+- Completed internship as a research Intern at **IIIT Allahabad**
 - Building production-ready applications with **MERN Stack**
 - Developing decentralized solutions using **Solidity** and **Web3**
-- Portfolio: **[harib.vercel.app](https://harib.vercel.app)**
+- Portfolio: **[hariswarreddy.dev](https://hariswarreddy.dev)**
 - Reach me at: **hariswarreddy241005@gmail.com**
 
 **Current Focus:**
